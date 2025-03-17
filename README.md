@@ -1,2 +1,6 @@
 # Project1
 This is my first repository
+
+Hello, I study in Lutsk Nationality Tecnical University
+
+
